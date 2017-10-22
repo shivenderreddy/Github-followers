@@ -2,7 +2,7 @@
 
 # Using Github Services
 
-Very simple to use.
+Very simple to use. <a href = "https://shivenderreddy.github.io/Github-followers/index.tpl.html">Click here.</a>
 
 Go to your github profile and find your github id.
 
